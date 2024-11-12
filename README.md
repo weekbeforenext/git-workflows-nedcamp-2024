@@ -1,5 +1,5 @@
 # Introduction to Agile and Git Workflows for Web Developers
-This project was created for the *Introduction to Agile and Git Workflows for Web Developers* training.
+This project was created for the *[Introduction to Agile and Git Workflows for Web Developers](https://nedcamp.org/sessions/2024/introduction-agile-and-git-workflows-web-developers)* training.
 
 [Story links](stories/README.md)
 
@@ -74,7 +74,7 @@ Just be sure to set your "base" to `develop` and "compare" to your feature branc
 1. Verify the target branch is `develop`.
 2. Verify there are no merge conflicts.
 3. Click on the "Files changed" tab to review the changes.
-    1. Verify the changes do not violate the event's Code of Conduct.
+    1. Verify the changes do not violate the event's [Code of Conduct](https://nedcamp.org/code-conduct).
     2. Verify the Acceptance Criteria of the issue has been met.
     3. Verify there are minimal grammatical or syntax errors.
         * It is probably helpful to click on the feature branch, navigate to the changed file, and verify it renders as expected.
