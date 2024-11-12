@@ -1,6 +1,8 @@
 # Introduction to Agile and Git Workflows for Web Developers
 This project was created for the *Introduction to Agile and Git Workflows for Web Developers* training.
 
+[Story links](stories/README.md)
+
 * [Create a Feature Branch](#create-a-feature-branch)
 * [Create a Pull Request](#create-a-pull-request)
 * [Request a Review](#request-a-review)
@@ -8,7 +10,6 @@ This project was created for the *Introduction to Agile and Git Workflows for We
 * [Resolve Merge Conflicts](#resolve-merge-conflicts)
 
 ## Getting Started
-
 * [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
 * [Setting your commit email address in Git - Setting your email address for a single repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository)
 
