@@ -25,3 +25,4 @@ I managed to find my team a few hours later, delirious and covered in bear slime
 
 I’ll never forget that moment, though. The sheer size of that stomach—the vastness of it. The polar bear wasn’t just an apex predator of the ice. It was a whole world unto itself, a place where things were consumed and then forgotten. I didn’t just learn about the power of the bear that day; I learned about the humbling, terrifying scale of nature—and how, sometimes, you can be swallowed whole by a world you never even knew existed.
 
+It all started when I accidentally picked up the wrong suitcase at the airport. Inside, I found a mysterious journal filled with cryptic notes and a map leading to a hidden treasure. Little did I know, this mistake would launch me into an unexpected adventure across continents, unraveling secrets and making new allies along the way. As I delved deeper, I realized that the treasure was not just gold, but a key to a long-lost civilization.
