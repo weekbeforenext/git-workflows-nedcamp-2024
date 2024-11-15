@@ -45,3 +45,4 @@ As I boarded a plane to Eastern Europe to trace the last known whereabouts of Al
 
 The web of intrigue was tightening. And the more I learned, the more I realized I might never make it back home.
 
+Billy Pilgrim has come unstuck in time. Billy has gone to sleep a senile widower and awakened on his wedding day. He has walked through a door in 1955 and come out another one in 1941. He has gone back through that door to find himself in 1963
